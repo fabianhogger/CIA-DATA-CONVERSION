@@ -6,3 +6,4 @@
  The data were released after a lot of freedom of information acts(FOIA) by the Black Vault organisation
  - https://twitter.com/blackvaultcom?lang=en
 - download original data here:https://documents2.theblackvault.com/documents/cia/CIAUFOCD-FULL-CONVERTED.zip
+- Here's the text data as one csv file https://github.com/fabianhoegger/CIA/cia_ufo.csv
