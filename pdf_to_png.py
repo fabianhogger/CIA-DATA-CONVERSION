@@ -35,4 +35,5 @@ print(arr)
 
 for filename  in arr:
     text = ocr_core('cia_png/'+filename)
-    print(text)
+    f = open('cia_texts/'+filename+".txt", "x")
+    f.write(text)
