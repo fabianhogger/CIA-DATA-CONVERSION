@@ -8,4 +8,4 @@
 - download original data here:https://documents2.theblackvault.com/documents/cia/CIAUFOCD-FULL-CONVERTED.zip
 - Here's the text data as one csv file https://github.com/fabianhoegger/CIA/cia_ufo.csv
 
-![picture of pdf] (https://github.com/fabianhoegger/CIA/docpic.png )
+![picture of pdf](https://github.com/fabianhoegger/CIA/docpic.png )
